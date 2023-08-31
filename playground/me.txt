@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aman
+Skills: HTML, CSS, JS, React.js
+Email: amanmourya295@gmail.com
+{{/user}}
